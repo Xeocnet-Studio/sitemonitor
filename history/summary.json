@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1986,
-    "timeDay": 1986,
-    "timeWeek": 1986,
-    "timeMonth": 1986,
-    "timeYear": 1986,
+    "time": 1391,
+    "timeDay": 1391,
+    "timeWeek": 1391,
+    "timeMonth": 1391,
+    "timeYear": 1391,
     "dailyMinutesDown": {}
   },
   {
@@ -23,38 +23,36 @@
     "icon": "https://favicons.githubusercontent.com/moegirl.org.cn",
     "slug": "moegirl",
     "status": "down",
-    "uptime": "65.18%",
-    "uptimeDay": "65.18%",
-    "uptimeWeek": "65.18%",
-    "uptimeMonth": "65.18%",
-    "uptimeYear": "65.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-24": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikimirror",
-    "url": "https://zh.wikipedia.wikimirror.org",
+    "url": "https://zh.wikipedia.wikimirror.org/wiki/",
     "icon": "https://favicons.githubusercontent.com/zh.wikipedia.wikimirror.org",
     "slug": "wikimirror",
     "status": "down",
-    "uptime": "9.02%",
-    "uptimeDay": "9.02%",
-    "uptimeWeek": "9.02%",
-    "uptimeMonth": "9.02%",
-    "uptimeYear": "9.02%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 4
     }
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 463,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 528,
+    "timeDay": 528,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   }
 ]

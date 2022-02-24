@@ -22,19 +22,19 @@
     "url": "http://moegirl.org.cn/",
     "icon": "https://favicons.githubusercontent.com/moegirl.org.cn",
     "slug": "moegirl",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 23392,
-    "timeDay": 23392,
-    "timeWeek": 23392,
-    "timeMonth": 23392,
-    "timeYear": 23392,
+    "status": "up",
+    "uptime": "84.10%",
+    "uptimeDay": "84.10%",
+    "uptimeWeek": "84.10%",
+    "uptimeMonth": "84.10%",
+    "uptimeYear": "84.10%",
+    "time": 15561,
+    "timeDay": 15561,
+    "timeWeek": 15561,
+    "timeMonth": 15561,
+    "timeYear": 15561,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 25
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/zh.wikipedia.wikimirror.org",
     "slug": "wikimirror",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-24": 132
+      "2022-02-24": 157
     }
   },
   {

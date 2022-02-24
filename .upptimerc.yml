@@ -8,7 +8,7 @@ sites:
   - name: Moegirl
     url: http://moegirl.org.cn/
   - name: Wikimirror
-    url: https://zh.wikipedia.wikimirror.org
+    url: https://zh.wikipedia.wikimirror.org/wiki/
   - name: AIDN
     url: https://aidn.jp
   - name: BanGround

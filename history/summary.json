@@ -4,19 +4,19 @@
     "url": "https://ravelloh.gitee.io",
     "icon": "https://favicons.githubusercontent.com/ravelloh.gitee.io",
     "slug": "gitee-page",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 1338,
-    "timeDay": 1338,
-    "timeWeek": 1338,
-    "timeMonth": 1338,
-    "timeYear": 1338,
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {
-      "2022-02-25": 1
+      "2022-02-25": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://moegirl.org.cn/",
     "icon": "https://favicons.githubusercontent.com/moegirl.org.cn",
     "slug": "moegirl",
-    "status": "down",
-    "uptime": "79.89%",
-    "uptimeDay": "79.89%",
-    "uptimeWeek": "79.89%",
-    "uptimeMonth": "79.89%",
-    "uptimeYear": "79.89%",
-    "time": 11587,
-    "timeDay": 11587,
-    "timeWeek": 11587,
-    "timeMonth": 11587,
-    "timeYear": 11587,
+    "status": "up",
+    "uptime": "78.64%",
+    "uptimeDay": "78.64%",
+    "uptimeWeek": "78.64%",
+    "uptimeMonth": "78.64%",
+    "uptimeYear": "78.64%",
+    "time": 10640,
+    "timeDay": 10640,
+    "timeWeek": 10640,
+    "timeMonth": 10640,
+    "timeYear": 10640,
     "dailyMinutesDown": {
-      "2022-02-25": 121,
+      "2022-02-25": 136,
       "2022-02-24": 75
     }
   },
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-25": 410,
+      "2022-02-25": 426,
       "2022-02-24": 555
     }
   },

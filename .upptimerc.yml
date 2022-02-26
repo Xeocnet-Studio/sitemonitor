@@ -7,12 +7,14 @@ sites:
     url: https://ravelloh.gitee.io
   - name: Moegirl
     url: http://moegirl.org.cn/
-  - name: Wikimirror
-    url: https://zh.wikipedia.wikimirror.org/wiki/
+  - name: BiliBili
+    url: https://bilibili.com/
   - name: AIDN
     url: https://aidn.jp
   - name: BanGround
     url: https://player.banground.fun
+  - name: Ableton
+    url: https://www.ableton.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
